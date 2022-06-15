@@ -1,0 +1,126 @@
+Assignment 1:
+
+QUESTION-1:
+	Why do computers understand only binary language?
+
+ANSWER:
+	Computer is an electronic device which needs electrical power(Dc power/battery power) to run.
+	In the modern computers we use lots of transistors thses transistor need DC power supply continously.
+	when these transistors gets the Dc power it is considered as high state.
+	when there is no power in transistor it is considered as low state.
+	The high and low states is called binary states.
+	when we replace the word high and low with 1 and 0 respectively it becomes binary language.
+	so we can say that when there is high in transistor that means 1.
+	when there is low in transistor that means 0.
+	
+	NOTE THAT
+		There is no actuall 0 and 1 in the transistor. there are only high and low states.
+	
+	So
+	we can say that computer only understand the binary language
+	because binary means only two and we have also only states that is high and low
+
+
+
+QUESTION-2:
+	What is the full form of IDE?
+
+ANSWER:
+	IDE stand for INTEGRATED DEVELOPMENT ENVIRONMENT.
+
+
+
+QUESTION-3:
+	What is the difference between a text editor and a code editor?
+
+ANSWER:
+	TEXT EDITOR.
+		1 ---> It is an application software which allow user to write something
+			like esay, letter, application, synopsis e.t.c.
+		2 ---> Here you edit your text on your choice
+			like font size, align text, bold text, italic text, strong text e.t.c
+		3 ---> After writting your project you can save these files as a text file.
+			some text editors are Notepad, MS word e.t.c,
+
+	CODE EDITOR:
+		 It is also a text editor too. You can do whatever you do in text editor as well.
+		but the main difference is that Code editor uses "Extension". due to these Extensions user can write code very efficiently.
+		due to these Extension useful suggestion are given by the IDE or Code editor to user.
+		and you can save your file with lots of Extension too.
+		    like {.c, .cpp, .py, .java, etc}
+
+QUESTION-4:
+	What are the steps to develop software using the C language?
+
+ANSWER:
+	The two main steps are:
+	1 ---> write source code.
+	2 ---> Build a softwere
+	    --Add Preprocessors
+	    --Compile it
+	    --Linker(.exe)
+
+QUESTION-5:Explore by your own
+
+	(a):What is the latest version of C Language?
+    ANSWER:
+	C17 is the latest version of Language.
+
+	(b):Who developed C Language?
+
+    ANSWER:
+	Dennis Ritchie develop C Language in 1970.
+
+	(c):What is the difference between System and Application Software?
+    ANSWER:
+        SYSTEM SOFTWERE:
+	System Softwere(OS) is an interface between hardwere and User(application softwere).
+	It performs all necessary work related to the hardwere like Resource allocation and deallocation.
+	Manage CPU sheduling.
+	memory managnment.
+	Device Mangnment. etc.
+        APPLICATION SOFTWERE:
+	It is also an interface between system softwere and real user.
+	it is made only for some specific task.like notepad, VLC media player, any IDE,etc.
+
+	(d): How to convert a number from a decimal number system to a binary number system?
+    ANSWER:
+	Write down the number.
+	Divide it by 2 and note the remainder.
+	Divide the quotient obtained by 2 and note the remainder.
+	Repeat the same process till we get 0 as the quotient.
+	Write the values of all the remainders starting from the bottom to the top.
+   ex:-
+	Let
+	number = 12
+	Divide the number by 2.
+	Remainder = 0. (After dividing).
+	Quotient = 6.
+	Divide the quotient by 2.
+	Remainder = 0.
+	Quotient = 3.
+
+	Divide the quotient by 2.
+	Remainder = 1.
+	Quotient = 1.  (Now stop)
+
+So The bianry of 12 is (1100).
+
+				THANKS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
