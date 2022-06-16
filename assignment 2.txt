@@ -1,0 +1,64 @@
+ASSIGNMENT 2:
+
+QUESTION 1:
+   ANSWER:
+	REAL CONSTANSTS ARE:
+			{4.5, 3.0, -0.0}
+	INTEGERS ARE:
+		{3, -25}
+	CHARACTERS ARE:
+		{'A', '+'}
+
+QUESTION 2:
+   ANSWER:
+	NOT A KEYWORD:
+		{auto, dynamic, define, is, this, super}
+	VAILD KEYWORDS:
+		{static, typedef, enum, default,}
+
+QUESTION 3:
+   ANSWER:
+	1 ---> Name which starts with digits.
+	2 ---> Name which starts with speacial symbols like (#, @, %, $, ^, &) etc. expect underscore( _ ).
+	3 ---> Name must not be any keywords like (return, static, typedef, enum, default) etc.
+	Other than these all are accepted as C variable 
+
+QUESTION 4:
+   ANSWER:
+	NO, we can not.
+
+QUESTION 5:
+   ANSWER:
+	Yes, It is.
+
+
+
+QUESTION 6:
+   ANSWER:
+	In RAM.
+
+QUESTION 7:
+   ANSWER:
+	Dennis Ritchie.
+
+
+QUESTION 8:
+   ANSWER:
+	In 1972.
+
+
+QUESTION 9:
+   ANSWER:
+	Unix was one of the first operating systems to be written in the C language.
+
+
+
+QUESTION 10:
+   ANSWER:
+	It is a high level Language.
+
+
+
+
+
+
