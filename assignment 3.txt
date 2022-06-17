@@ -1,0 +1,78 @@
+ASSIGNMENT 2:
+
+QUESTION 1:
+   ANSWER:
+	Primitive data types is already define in compiler.
+	Some primitive data type are as follows.
+	1 --->int
+	2 --->float
+	3 --->char
+	4 --->double
+	
+
+QUESTION 2:
+   ANSWER:
+	Any thing outside the function body is known as global statments.
+	they can be. Any Function or any variable or any Non-primitive data type.
+	These global function should be written on the top of the programe. 
+
+QUESTION 3:
+   ANSWER:
+	The size of float type variable is 4byte.
+
+QUESTION 4:
+   ANSWER:
+	The value of uninitialised variable is "Garbege".
+
+QUESTION 5:
+   ANSWER:
+	float:
+	   float uses single precision values.
+	   It has 7 decimal digits of precision
+	   It takes 32bit of space.
+	   We use float for less precise and less acurate operations. 
+	double:
+	   double uses double precision values.
+	   It has 11 decimal digits of precision.
+	   It takes 64bit of space.
+	   We use double to be more precsie and accurate operations.
+
+
+
+QUESTION 6:
+   ANSWER:
+	Full form of ASCII is (American Standard Code for Information Interchange).
+
+QUESTION 7:
+   ANSWER:
+	Function:
+	   block of statements.
+	   Some are pre-define but some are user define.
+	Keyword:
+	   These are the reserve keywords by programming Language.
+	   They have spacial meaning.
+	   They are limited only 32 keyword is used in C.
+
+
+QUESTION 8:
+   ANSWER:
+	Modifiers are keywords in C which changes the meaning of basic data type in c. It specifies the amount of memory space to be allocated for a variable.
+ 	Modifiers are prefixed with basic data types to modify the memory allocated for a variable.
+
+
+QUESTION 9:
+   ANSWER:
+	No,
+	  We can not assign char constant in int variable. It give Error.
+
+
+
+QUESTION 10:
+   ANSWER:
+	No,
+
+
+
+
+
+
