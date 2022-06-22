@@ -1,0 +1,94 @@
+Assignment 4:
+
+Question 1:
+   Answer:
+	#include<stdio.h>
+	#include<conio.h>
+	int main(){
+
+   	 printf("Hello Students");
+    	getch();
+   	 return 0;
+	}
+
+Question 2:
+   Answer:
+	#include<stdio.h>
+	#include<conio.h>
+	int main(){
+    
+   	 printf("Hello \nStudents");
+   	 getch();
+   	 return 0;
+	}
+
+Question 3:
+   Answer:
+	#include<stdio.h>
+	#include<conio.h>
+	int main(){
+    
+	    printf("\"MySirG\"");
+	    getch();
+	    return 0;
+	}
+
+Question 4:
+   Answer:
+	#include<stdio.h>
+	#include<conio.h>
+	int main(){
+    
+	    printf("\"Teacher\'s Day\"");
+	    getch();
+	    return 0;
+	}
+Question 5:
+   Answer:
+	#include<stdio.h>
+	#include<conio.h>
+	int main(){
+    
+	    printf("\\n");
+	    getch();
+	    return 0;
+	}
+Question 6:
+   Answer:
+	#include<stdio.h>
+	#include<conio.h>
+	int main(){
+    
+	    printf("%%d");
+	    getch();
+	    return 0;
+	}
+
+Question 7:
+   Answer:
+	#include<stdio.h>
+	#include<conio.h>
+	int main(){
+	    int a = 70;
+	    float b = 3.14;
+	    char ch = 'A';
+	    printf("%d \n%f \n%c", a, b, ch);
+	    getch();
+	    return 0;
+	}
+Question 9:
+   Answer:
+	#include<stdio.h>
+	#include<conio.h>
+	int main(){
+    
+	    char ch;
+	    printf("Enter any character:");
+	    scanf("%c", &ch);
+	    printf("You entered = %c \nASCII value of given character = %x", ch, ch);
+	    getch();
+	    return 0;
+	}
+
+
+
